@@ -1,2 +1,2 @@
-# texe
+# text
 a text
